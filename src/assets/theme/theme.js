@@ -1,7 +1,7 @@
 const theme = {
     black: '#333333',
     white: '#ffffff',
-    primaryColor: '#004085',
+    primaryColor: '#1a1a1a',
     primaryHoverColor: '#cce5ff',
     secondaryColor: '#383d41',
     headingColor: '#FFFFFF',
