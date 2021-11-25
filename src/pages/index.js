@@ -23,7 +23,7 @@ const IndexPage = () => (
   <ThemeProvider theme={theme}>
     <GlobalStyle />
     <Layout>
-      <SEO title="Home" />
+      <SEO title="FirstWallet - Quantum Security - Descentralized Wallet" />
       <Navigation />
       <BannerTwo />
       <Service />
