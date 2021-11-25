@@ -239,7 +239,7 @@ const BannerTwo = () => {
             <Box className="banner-content"> 
               <Heading>
                 Access the <br/>
-                power of blockchain
+                quantum security
               </Heading>
               <Text as="span" className="description">
                 The highly the not having with lively. Our up with ran go her it
